@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![github](https://github.com/ateezroty/kodluyoruzilkrepo/blob/d783f26c86a34352adc487f42d139eed03e30e18/WhatsApp%20Image%202022-11-04%20at%2003.58.43.jpeg)
 
